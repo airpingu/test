@@ -6,4 +6,4 @@ gene_test:
 
 
 all:
-
+	echo
