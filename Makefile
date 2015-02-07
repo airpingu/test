@@ -5,4 +5,5 @@ gene_test:
 	done
 
 
-
+all:
+	echo
