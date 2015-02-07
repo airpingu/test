@@ -4,5 +4,3 @@ gene_test:
 		cat XXX && exit 1; \
 	done
 
-
-
