@@ -5,4 +5,4 @@ gene_test:
 	done
 
 PR:
-	echo;
+	echo
